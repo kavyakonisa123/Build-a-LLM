@@ -1,1 +1,5 @@
 attention_mechanisms/__pycache__/__init__.cpython-311.pyc
+__pycache__/
+Pre_training/gpt2/1558M/
+Pre_training/gpt2/124M/
+Pre_training/*.pth
