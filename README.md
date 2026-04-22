@@ -1,6 +1,6 @@
 # Building an LLM from Scratch
 
-This repository documents my learning of building a **Large Language Model (LLM) from scratch**, inspired by the excellent resource:
+This repository documents my learning of building a **Large Language Model (LLM) from scratch**, by the excellent resource:
 *Build a Large Language Model from Scratch* by Sebastian Raschka ([https://sebastianraschka.com/](https://sebastianraschka.com/)).
 
 ## Overview
@@ -53,7 +53,7 @@ This project is both:
 
 ## Inspiration
 
-This work is heavily inspired by Sebastian Raschka’s book and tutorials, which provide a clear and practical approach to understanding and building LLMs.
+This work is by Sebastian Raschka’s book and tutorials, which provide a clear and practical approach to understanding and building LLMs.
 
 ---
 
